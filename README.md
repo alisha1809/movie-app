@@ -33,7 +33,7 @@ A Netflix-inspired movie streaming interface built with **HTML, CSS, and JavaScr
 ![Profile Selection](screenshots/Home.PNG)
 
 ### Movie Categories
-![Movie Categories](screenshots/Trending.png)
+![Movie Categories](screenshots/Trending.PNG)
 
 ---
 

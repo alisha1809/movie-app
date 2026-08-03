@@ -54,13 +54,12 @@ CineFlix/
 │── index.html
 │── style.css
 │── script.js
-│── assets/
+│── images/
 │── screenshots/
 │   ├── home.png
 │   ├── profile.png
-│   ├── categories.png
-│   ├── search.png
-│   └── responsive.png
+│   ├── trending.png
+│   ├── top rated.png
 └── README.md
 ```
 
